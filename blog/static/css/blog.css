@@ -1,5 +1,5 @@
 h1 a {
-	color: #E06CF5;
+	color: #1E90FF;
 	font-family: 'Lobster';
 }
 
@@ -8,13 +8,13 @@ body {
 }
 
 .page-header {
-    background-color: #E06CF5;
+    background-color: #2F4F4F;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #B22222;
     font-size: 36pt;
     text-decoration: none;
 	text-align: center;
@@ -30,7 +30,7 @@ h1, h2, h3, h4 {
 
 .date {
     float: right;
-    color: #828282;
+    color: #008000;
 }
 
 .save {
@@ -42,7 +42,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #4B0082;
     float: right;
 	font-size: 26pt;
     margin-right: 20px;

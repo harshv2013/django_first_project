@@ -1,0 +1,1 @@
+## Django Applicatio for blog
